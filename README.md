@@ -1,2 +1,2 @@
-# windforecast
-predicting wind using machine learning
+# Machine Learning
+Data Science
